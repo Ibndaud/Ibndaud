@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibndaud  ¯\\_(ツ)_/¯
 - 👀 I’m currently studying Data Engineering &, to some extent, Machine learning / Data Science...
-- 📫 How to reach me ([t.me/Ibndaud](https://t.me))
+- 📫 How to reach me ([t.me/Ibndaud](https://t.me/Ibndaud))
 
 ---
 
