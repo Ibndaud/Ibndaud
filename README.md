@@ -19,7 +19,7 @@
 **Языки и базовые инструменты**
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-SQLite/PostgreSQL/Vertica-4479A1?logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -28,7 +28,7 @@
 
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Vertica](https://img.shields.io/badge/Vertica-DWH-blue)
 
@@ -47,6 +47,24 @@
 ![Polars](https://img.shields.io/badge/Polars-013243?logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-4C8CBF?logo=seaborn&logoColor=white)
+
+**Из учебных курсов — практиковался, проектов в профиле пока нет** 📚
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
+![Greenplum](https://img.shields.io/badge/Greenplum-13A10E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-66CCFF)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)
+![S3 Object Storage](https://img.shields.io/badge/S3_Object_Storage-569A31?logo=amazons3&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF)
+![VK Cloud](https://img.shields.io/badge/VK_Cloud-0077FF?logo=vk&logoColor=white)
+
+**Концепции:** DWH · Data Lake · ETL/ELT · batch и streaming · инкрементальные загрузки · outbox pattern
 
 ---
 
@@ -72,40 +90,9 @@
 | [**ООП на Python: от ужаса до понимания**](https://github.com/Ibndaud/oop-in-python-from-terror-to-understanding) | Две мини-игры на pygame: путь от монолита до модульной архитектуры, CI на GitHub Actions |
 | [**Версионирование данных (DVC)**](https://github.com/Ibndaud/dvc) | Практика DVC: remote-хранилища, версионирование датасетов |
 
----
-
-### 🛠️ Мой технологический стек
-
-#### 🐍 Языки и Базы данных (OLTP / NoSQL)
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
-![Redis](https://shields.io)
-
-#### 📊 Аналитические БД и Хранилища (DWH / OLAP)
-![ClickHouse](https://shields.io)
-![Greenplum](https://shields.io)
-![Vertica](https://shields.io)
-![dbt](https://shields.io)
-
-#### 🐘 Big Data & ETL
-![PySpark](https://shields.io)
-![Hadoop](https://shields.io)
-
-#### ☁️ Облачные платформы
-![Yandex Cloud](https://shields.io)
-![AWS](https://shields.io)
-
-#### 🐋 Инфраструктура, Оркестрация и ОС
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![Linux](https://shields.io)
-
 
 <div align="center">
-<sub>Открыт к коллаборациям и интересным задачам в DE/DS ¯\_(ツ)_/¯</sub>
+<sub>Открыт к коллаборациям и интересным задачам в DE/DS (ツ)</sub>
 </div>
 
 <!---
