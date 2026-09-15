@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Ibndaud  ¯\\_(ツ)_/¯
 - 👀 I’m currently studying Data Engineering &, to some extent, Machine learning / Data Science...
-- 📫 How to reach me ([@Ibndaud](https://t.me/Ibndaud), [github.com/Ibndaud](https://github.com/Ibndaud))
+- 📫 How to reach me ([@Ibndaud](https://t.me/Ibndaud))
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Ibndaud-26A5E4?logo=telegram&logoColor=white)](https://t.me/Ibndaud)
